@@ -1,11 +1,4 @@
-"""
-    ______                        _   __      __            
-   / ____/___  _________ ___     / | / /_  __/ /_____  _____
-  / /_  / __ \/ ___/ __ `__ \   /  |/ / / / / //_/ _ \/ ___/
- / __/ / /_/ / /  / / / / / /  / /|  / /_/ / ,< /  __/ /    
-/_/    \____/_/  /_/ /_/ /_/  /_/ |_/\__,_/_/|_|\___/_/ 
-
-"""
+<h1 align="center">Form Exploder</h1>
 
 # FormNuker
 - Script criado com a finalidade de estudar uma 'Vulnerabilidade' nos formulários google, automatizando e potencializando a quantidade de respostas enviadas.
